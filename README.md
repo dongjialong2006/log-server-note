@@ -17,10 +17,10 @@
 ## 设计
 
 * frame设计
-![frame](png/frame.png =200x300)
+![frame](png/frame.png)
 
 * log-server设计
-![log-server](png/log-server.png =200x300)
+![log-server](png/log-server.png)
 
 * etcd数据库设计
 ![etcd](png/etcd.png)
