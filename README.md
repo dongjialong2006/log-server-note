@@ -23,7 +23,7 @@
 ![log-server](png/log-server.png)
 
 * etcd数据库设计
-![etcd](png.etcd.png)
+![etcd](png/etcd.png)
 
 ## 启动
 
